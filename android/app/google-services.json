@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "941095566314",
+    "project_id": "mpss-d477f",
+    "storage_bucket": "mpss-d477f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941095566314:android:fda52d9fdd240332d2d093",
+        "android_client_info": {
+          "package_name": "com.engoo.finalmps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941095566314-493df451dsg48s1u1oaol13br3q4gdgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.engoo.finalmps",
+            "certificate_hash": "f48787b3204e22a3f08e5bdb2d0fc9c33f58478e"
+          }
+        },
+        {
+          "client_id": "941095566314-5kith3072ujscc1ik60frgpkbla87u7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvrSyuv1BUQkh5bXeCpC07siuAmGuP2mI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941095566314-5kith3072ujscc1ik60frgpkbla87u7d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941095566314-1ltbpksifk0mmd9vj6u5h7o00881q8ip.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.missingpeopleseeker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941095566314:android:36577c319578bf68d2d093",
+        "android_client_info": {
+          "package_name": "com.engoo.finalmpsadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941095566314-5kith3072ujscc1ik60frgpkbla87u7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvrSyuv1BUQkh5bXeCpC07siuAmGuP2mI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941095566314-5kith3072ujscc1ik60frgpkbla87u7d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941095566314-1ltbpksifk0mmd9vj6u5h7o00881q8ip.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.missingpeopleseeker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
